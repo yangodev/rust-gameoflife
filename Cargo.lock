@@ -1,0 +1,12 @@
+[root]
+name = "GameOfLife"
+version = "0.0.1"
+dependencies = [
+ "flat_map 0.0.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "flat_map"
+version = "0.0.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
